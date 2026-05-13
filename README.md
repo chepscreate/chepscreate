@@ -38,6 +38,7 @@ Building modern, beautiful web experiences — from concept to deployment.
 | 👕 **PYB Build** | Custom branding solutions platform | [pybbuild1.netlify.app](https://pybbuild1.netlify.app) |
 | 🏠 **Tenant Tracker** | Property management tool built with Python | [View Repo](https://github.com/chepscreate/TenantTracker) |
 | 🎮 **Game** | Interactive TypeScript game | [View Repo](https://github.com/chepscreate/game) |
+| 🏢 **IKPlus Clocking System** | Employee clocking system built for IKPlus *(Private — confidential)* | 🔒 Private |
 
 ---
 
