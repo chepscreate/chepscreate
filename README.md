@@ -12,7 +12,7 @@ Building modern, beautiful web experiences — from concept to deployment.
 
 - 🎨 I design and build **modern websites & web apps**
 - 🌍 Based in South Africa
-- 💼 Working on custom branding & web solutions at **PYB Build**
+- 💼 Working at **IKPlus**
 - 🧠 Currently exploring **Python**, **TypeScript** & **AI tools**
 - ⚡ I run a creative studio — check out my live projects below!
 
